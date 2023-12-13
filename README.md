@@ -1,6 +1,8 @@
-# Hi there, I'm Jalmari Malmi! 👋
+# Hi there! 👋
 
-
+## About Me
+🎓 I'm currently studying Business analytics at LUT University.
+🌱 Learning more about AI and Machine Learning.
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4lmari&show_icons=true)
@@ -8,13 +10,10 @@
 ## Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4lmari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[linkedin]: https://linkedin.com/in/jalmarimalmi
-
 
 
 <!--
-## About Me
-🎓 I'm currently studying Business analytics at LUT University.
+
 🔭 Working on [Your Current Project or Area of Focus].
 🌱 Learning more about [Technologies or Skills You're Learning].
 👯 Looking to collaborate on [Types of Projects or Interests].
