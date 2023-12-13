@@ -4,11 +4,7 @@
 🎓 I'm currently studying Business analytics at LUT University.<br>
 🌱 Learning more about AI and Machine Learning.
 
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4lmari&show_icons=true)
 
-## Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4lmari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -22,6 +18,16 @@
 📫 How to reach me: [Your Contact Information].
 😄 Pronouns: [Your Pronouns].
 ⚡ Fun fact: [An Interesting Fact About You].
+
+
+
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4lmari&show_icons=true)
+
+## Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4lmari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 -->
 
 
