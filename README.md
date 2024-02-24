@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-🎓 I'm currently studying Business analytics at LUT University.<br>
+🎓 Masters student in Business analytics at LUT University.<br>
 🌱 Learning more about AI and Machine Learning.<br>
 ⚡ Fun fact: I like Chess.
 
