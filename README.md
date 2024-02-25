@@ -1,9 +1,8 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Jalmari</h1>
+<h3 align="center">Masters student in Business analytics at LUT University</h3>
 
-## About Me
-🎓 Masters student in Business analytics at LUT University.<br>
-🌱 Learning more about AI and Machine Learning.<br>
-⚡ Fun fact: I like Chess.
+
+
 
 
 [comment]: # (List of tools and languages)
@@ -22,6 +21,10 @@
 😄 Pronouns: [Your Pronouns].
 ⚡ Fun fact: [An Interesting Fact About You].
 
+## About Me
+🎓 Masters student in Business analytics at LUT University.<br>
+🌱 Learning more about AI and Machine Learning.<br>
+⚡ Fun fact: I like Chess.
 
 
 ## My GitHub Stats
