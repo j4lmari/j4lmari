@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jalmari</h1>
-<h3 align="center">Masters student in Business analytics at LUT University</h3>
+<h1 align="left">Hi 👋, I'm Jalmari</h1>
 
-[comment]: # (List of tools and languages)
+
+🎓 Masters student in Business analytics at LUT University.<br>
+🌱 Learning more about AI and Machine Learning.<br>
+⚡ Fun fact: I like Chess.
+
+
 <h3 align="left">Languages and Tools:</h3>
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -18,7 +20,6 @@
   <img width="12" />
 
 </div>
-
 
 
 <!--
