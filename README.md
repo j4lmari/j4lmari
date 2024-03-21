@@ -35,7 +35,7 @@
 
 ## About Me
 🎓 Masters student in Business analytics at LUT University.<br>
-🌱 Learning more about AI and Machine Learning.<br>
+🌱 Learning more about the Machine Learning.<br>
 ⚡ Fun fact: I like Chess.
 
 
